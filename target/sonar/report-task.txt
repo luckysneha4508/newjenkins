@@ -1,0 +1,6 @@
+projectKey=in.lucky:maven-web-app
+serverUrl=http://65.1.109.193:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://65.1.109.193:9000/dashboard?id=in.lucky%3Amaven-web-app
+ceTaskId=AYQUGWE69YYGR7DcQnWB
+ceTaskUrl=http://65.1.109.193:9000/api/ce/task?id=AYQUGWE69YYGR7DcQnWB
